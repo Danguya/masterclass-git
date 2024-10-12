@@ -1,0 +1,13 @@
+{
+    "name": "calculadora-lib",
+    "version": "1.0.0",
+    "description": "Mini biblioteca de cálculos matemáticos em JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "keywords": ["calculadora", "math", "operacoes"],
+    "author": "Wilmy Danguya",
+    "license": "MIT"
+  }
+  
